@@ -1,9 +1,10 @@
 ### Hello there, I'm Igor Nascimento 👋
-##### 💻 Check out my blog: Soon!!!
-##### 💬 Ask me about: Soon!!!
-##### 🌱 I’m currently learning: Soon!!!
-## About Me!
-Soon!!!
+##### 💻 Check out my blog: Coming soon!!!
+##### 💬 Ask me about [ React, C#, Flutter, Next.js, arduino, ESP-32 ]
+##### 🌱 I’m currently learning: [ Flutter ]
+##### ⚡ Fun fact: Igor2269 is my default nickname in games
+## 👨‍💻 About Me!
+I'm Igor a developer and my objective is to automate everything i can 🤖.
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igornm/)
@@ -15,18 +16,3 @@ Soon!!!
 ## Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=igor2269&show_icons=true&hide_border=false&theme=blue-green&count_private=true&hide_title=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor2269&hide=html,css&theme=blue-green&layout=compact)
-
-<!--
-**igor2269/igor2269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
