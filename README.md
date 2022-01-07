@@ -14,6 +14,9 @@ I'm Igor a developer and my objective is to automate everything i can 🤖.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-228B22.svg?&style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/553284885255)
 [![GitHub followers](https://img.shields.io/github/followers/igor2269?logo=github&style=flat-square)](https://github.com/igor2269)
 
+### 🧙‍♂ Im the organizer of the event "Geek in Fest", Check out our instagram! 
+GitHub:  [![Instagram](https://img.shields.io/badge/Instagram-C71585.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/geekinfest/)
+
 ### Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=igor2269&show_icons=true&hide_border=false&theme=blue-green&count_private=true&hide_title=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor2269&hide=html,css&theme=blue-green&layout=compact)
