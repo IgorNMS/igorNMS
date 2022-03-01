@@ -20,6 +20,3 @@ Geek in Fest:   [![Instagram](https://img.shields.io/badge/Instagram-C71585.svg?
 ### Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=igor2269&show_icons=true&hide_border=false&theme=blue-green&count_private=true&hide_title=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor2269&hide=html,css&theme=blue-green&layout=compact)
-
-### Rewind 2021
-[![Rewind](https://user-images.githubusercontent.com/55962271/146008239-41a1daef-15e7-44cc-8ace-002809e8df7b.png)](https://wrapped.run)
