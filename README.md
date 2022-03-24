@@ -5,7 +5,7 @@
 ##### ⚡ Fun fact: Igor2269 is my default nickname in games
 
 ### 👨‍💻 About Me!
-I'm Igor a developer and my objective is to automate everything i can 🤖.
+I'm Igor a .NET developer and my objective is to automate everything i can 🤖.
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igornm/)
