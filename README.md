@@ -1,8 +1,7 @@
 ### Hello there, I'm Igor Nascimento 👋
 ##### 💻 Check out my blog: Coming soon!!!
 ##### 💬 Ask me about [ React, C#, Flutter, Next.js, arduino, ESP-32 ]
-##### 🌱 I’m currently learning: [ Flutter ]
-##### ⚡ Fun fact: Igor2269 is my default nickname in games
+##### 🌱 I’m currently learning: [ C#, Design patterns c# ]
 
 ### 👨‍💻 About Me!
 I'm Igor a .NET developer and my objective is to automate everything i can 🤖.
