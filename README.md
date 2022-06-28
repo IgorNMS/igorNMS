@@ -17,5 +17,5 @@ I'm Igor a .NET developer and my objective is to automate everything i can 🤖.
 Geek in Fest:   [![Instagram](https://img.shields.io/badge/Instagram-C71585.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/geekinfest/)
 
 ### Stats
-![My stats](https://github-readme-stats.vercel.app/api?username=igor2269&show_icons=true&hide_border=false&theme=blue-green&count_private=true&hide_title=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor2269&hide=html,css&theme=blue-green&layout=compact)
+![My stats](https://github-readme-stats.vercel.app/api?username=igorNMS&show_icons=true&hide_border=false&theme=blue-green&count_private=true&hide_title=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorNMS&hide=html,css&theme=blue-green&layout=compact)
