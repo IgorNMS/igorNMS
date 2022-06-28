@@ -1,7 +1,7 @@
 ### Hello there, I'm Igor Nascimento 👋
 ##### 💻 Check out my blog: Coming soon!!!
 ##### 💬 Ask me about [ React, C#, Flutter, Next.js, arduino, ESP-32 ]
-##### 🌱 I’m currently learning: [ C#, Design patterns c# ]
+##### 🌱 I’m currently learning: [ C#, Design patterns C# ]
 
 ### 👨‍💻 About Me!
 I'm Igor a .NET developer and my objective is to automate everything i can 🤖.
