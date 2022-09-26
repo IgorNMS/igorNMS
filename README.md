@@ -16,6 +16,8 @@ I'm Igor a .NET developer and my objective is to automate everything i can 🤖.
 ### 🧙‍♂ Im the organizer of the event "Geek in Fest", Check out our instagram! 
 Geek in Fest:   [![Instagram](https://img.shields.io/badge/Instagram-C71585.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/geekinfest/)
 
+[![@igorultrix's Holopin board](https://holopin.io/api/user/board?user=igorultrix)](https://holopin.io/@igorultrix)
+
 ### Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=igorNMS&show_icons=true&hide_border=false&theme=blue-green&count_private=true&hide_title=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorNMS&hide=html,css&theme=blue-green&layout=compact)
