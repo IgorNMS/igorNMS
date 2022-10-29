@@ -1,12 +1,19 @@
 ## Hello there, I'm Igor Nascimento 👋
+
 ### 💻 Check out my blog: Coming soon!!!
+
 ### 💬 Ask me about:
+
 - #### 👩‍💻 Technologies: 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![RLang](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-- ##### ✔ Microcontrollers(One of my hobbies!!): 
+
+- #### 🎲 DataBases: 
+![OracleDb](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+- #### ✔ Microcontrollers(One of my hobbies!!): 
 ![Esp32](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-### 🌱 I’m currently learning: [ Design patterns with C# ]
+### 🌱 I’m currently learning: [ Design patterns with C# and SQL]
 
 ### 👨‍💻 About Me!
 I'm Igor a .NET developer and my objective is to automate everything i can 🤖.
