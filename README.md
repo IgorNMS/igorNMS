@@ -22,7 +22,7 @@ I'm Igor a .NET developer and my objective is to automate everything i can 🤖.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igornm/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Iguh_Nm)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor.s.n.m/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-228B22?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553284885255)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-228B22?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17266009022)
 
 ### 🧙‍♂ Im the organizer of the event "Geek in Fest", Check out our instagram! 
 Geek in Fest:   [![Instagram](https://img.shields.io/badge/Instagram-C71585.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/geekinfest/)
