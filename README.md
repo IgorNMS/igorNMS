@@ -1,6 +1,6 @@
 ## Hello there, I'm Igor Nascimento 👋
 
-### 💻 Check out my blog: Coming soon!!!
+### 💻 Check out my blog: https://creative-hub.vercel.app
 
 ### 💬 Ask me about:
 
